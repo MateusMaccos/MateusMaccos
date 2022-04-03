@@ -21,6 +21,7 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174836.png">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
+  <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/391784632926076938/959992166774628413/Webp.net-gifmaker.gif">
 </div>
 <br>
   <div> 
