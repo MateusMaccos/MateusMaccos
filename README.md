@@ -1,8 +1,8 @@
 ### Olá 👋 Sou o Mateus Machado
 
 - 🔭 Atualmente trabalhando com Flutter/Dart
-- 🌱 Estou aprendendo JavaScript
-- 👯 Procurando trabalho com HTML/CSS
+- 🌱 Estou aprendendo React
+- 👯 Procurando estágio
 
 <br>
 <div align="center">
