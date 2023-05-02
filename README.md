@@ -1,7 +1,6 @@
 ### Olá 👋 Sou o Mateus Machado
 
   <a href="https://mateus-maccos.web.app" target="_blank"><img src="https://img.shields.io/badge/MEU PORTFOLIO-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a> 
-</div>
 
 - 🔭 Atualmente trabalhando com Flutter/Dart
 - 🌱 Estou aprendendo React
@@ -33,12 +32,12 @@
   <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/391784632926076938/959992166774628413/Webp.net-gifmaker.gif">
 </div>
 <br>
-  <div> 
+ <div> 
   <a href="https://instagram.com/cartoonmatt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateusmaccos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5585996417275" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/mateusdoug" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-
+</div>
 <!--
 **MateusMaccos/MateusMaccos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
