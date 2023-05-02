@@ -3,7 +3,7 @@
   <a href="https://mateus-maccos.web.app" target="_blank"><img src="https://img.shields.io/badge/MEU PORTFOLIO-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a> 
 
 - 🔭 Atualmente trabalhando com Flutter/Dart
-- 🌱 Estou aprendendo React
+- 🌱 Estou aprendendo React e Machine Learning
 - 👯 Procurando estágio
 
 <br>
