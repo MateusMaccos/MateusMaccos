@@ -1,4 +1,8 @@
-### Olá 👋 Sou o Mateus Machado
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02569b&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02569b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+Machado;I'm+21+years+old;I'm+from+Brazil;I+am+Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+### Seja bem-vindo, acesse meu portfolio abaixo 
 
   <a href="https://mateus-maccos.web.app" target="_blank"><img src="https://img.shields.io/badge/MEU PORTFOLIO-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a> 
 
@@ -44,6 +48,14 @@
   ---
   
 ![snake gif](https://github.com/MateusMaccos/MateusMaccos/blob/output/github-contribution-grid-snake.svg)
+  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02569b&height=120&section=footer"/>
+  
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MateusMaccos}/count.svg" /></p> 
+<br>
+</div>
 <!--
 **MateusMaccos/MateusMaccos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
