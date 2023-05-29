@@ -16,6 +16,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMaccos&show_icons=true&theme=dracula&title_color=02569b&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaccos&layout=compact&title_color=02569b&langs_count=7&theme=dracula"/>
 </div>
+  
+  ![](https://komarev.com/ghpvc/?username=MateusMaccos&color=02569b&style=for-the-badge)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -45,15 +47,9 @@
   <a href="https://twitter.com/mateusdoug" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
   
-  ---
+---
   
 ![snake gif](https://github.com/MateusMaccos/MateusMaccos/blob/output/github-contribution-grid-snake.svg)
-  
- <div align="center">
-<br><p align="center"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MateusMaccos}/count.svg" /></p> 
-<br>
-</div>
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02569b&height=120&section=footer"/>
  
