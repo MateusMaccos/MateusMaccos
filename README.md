@@ -4,7 +4,7 @@
 
 ### Seja bem-vindo, acesse meu portfolio abaixo 
 
-  <a href="https://mateus-maccos.web.app" target="_blank"><img src="https://img.shields.io/badge/MEU PORTFOLIO-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a> 
+  <a href="https://mateus-machado.web.app" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfolio-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" target="_blank"></a> 
 
 - 🔭 Atualmente trabalhando com Flutter/Dart
 - 🌱 Estou aprendendo React e Machine Learning
@@ -31,10 +31,13 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg">
   <img align="center" alt="dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174836.png">
-  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://iconape.com/wp-content/files/wd/371584/svg/371584.svg" title="vscode">
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub">
+  <img align="center" alt="github" height="30" width="40" src="https://iconape.com/wp-content/files/zd/370920/svg/370920.svg" title="GitHub">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
+  <img align="center" alt="Figma" height="30" width="40" src="https://iconape.com/wp-content/files/gm/370871/svg/370871.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://iconape.com/wp-content/files/yl/370873/svg/370873.svg">
+  <img align="center" alt="TailWindCss" height="30" width="40" src="https://iconape.com/wp-content/files/pq/371539/svg/371539.svg">
   <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/391784632926076938/959992166774628413/Webp.net-gifmaker.gif">
 </div>
   
