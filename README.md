@@ -25,10 +25,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" title="C">
+  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" title="C">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Flutter" height="30" width="40" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg">
+  
   <img align="center" alt="dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174836.png">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://iconape.com/wp-content/files/wd/371584/svg/371584.svg" title="vscode">
