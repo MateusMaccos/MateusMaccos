@@ -34,7 +34,7 @@
   <img align="center" alt="Android" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174836.png">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://iconape.com/wp-content/files/wd/371584/svg/371584.svg" title="vscode">
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="GitHub">
+  <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
   <img align="center" alt="Figma" height="30" width="40" src="https://iconape.com/wp-content/files/gm/370871/svg/370871.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://iconape.com/wp-content/files/yl/370873/svg/370873.svg">
