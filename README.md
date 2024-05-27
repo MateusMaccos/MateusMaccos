@@ -6,9 +6,9 @@
 
   <a href="https://mateus-machado.web.app" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfolio-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" target="_blank"></a> 
 
-- 🔭 Atualmente trabalhando com Flutter/Dart
-- 🌱 Estou aprendendo React e Machine Learning
-- 👯 Procurando estágio
+- 🔭 Atualmente trabalhando com API do WhatsApp (NodeJS)
+- 🌱 Estou aprendendo Fuzzy e IA
+- 👯 Procurando oportunidades para aplicar meu conhecimento
 
 <br>
 <div align="left">
